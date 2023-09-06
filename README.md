@@ -1,1 +1,2 @@
-[C-Shopy](https://vikasbisariya-dev.github.io/C-Shopy/)
+# [C-Shopy](https://vikasbisariya-dev.github.io/C-Shopy/)
+## Created a complete E-commerce website featuring essential pages like Home, Products, Product View, Category, Cart, Checkout, Order Confirmation, About Us, Contact Us, and Search. Developed using HTML, CSS, JavaScript, and jQuery, with a focus on responsive design. Implemented crucial functions such as product listing, category filtering, price range filtering, and detailed product information.
